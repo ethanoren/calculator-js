@@ -1,0 +1,51 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+.display {
+    width: 8.75rem;
+    height: 2rem;
+    margin-bottom: 0.2rem;
+    background-color: lightgray;
+    font-size: 1.8rem;
+}
+
+.ac {
+    width: 6.5rem;
+    height: 2rem;
+    margin-bottom: 0.2rem;
+}
+
+.add {
+    width: 2rem;
+    height: 2rem;
+}
+
+.buttons {
+    flex-direction: row;
+    width: 10rem;
+}
+
+.number {
+    margin: 0;
+    padding: 0;
+    width: 2rem;
+    height: 2rem;
+    margin-bottom: 0.2rem;
+}
+
+.mathbuttons {
+    margin: 0;
+    padding: 0;
+    width: 2rem;
+    height: 2rem;
+    margin-bottom: 0.2rem;
+}
+
+.zero {
+    margin: 0;
+    padding: 0;
+    width: 6.5rem;
+    height: 2rem;
+}
