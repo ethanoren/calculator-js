@@ -40,6 +40,7 @@ function operate(num1, num2, operator) {
     }
 }
 
+// adds event listeners to Every number (except 0 lol)
 for (let number of numbers) {
     number.addEventListener("click", () => {
         let numberName = Array.from(number.className)[0];
